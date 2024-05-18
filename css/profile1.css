@@ -1,0 +1,134 @@
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto 240px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+    .container h2 {
+        margin-top: 30px;
+        text-align: center;
+        color: #212121;
+        position: relative;
+        font-size: 2.3em;
+        text-transform: uppercase;
+        margin-bottom: 30px
+    }
+        .container h2:after {
+            content: '';
+            background: #3399cc;
+            height: 2px;
+            width: 25%;
+            position: absolute;
+            bottom: 0%;
+            left: 37%;
+        }
+
+
+    .container .col-lg-12 {
+        overflow-x: auto;
+    }
+
+    .container .table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #fff;
+    }
+
+        .container .table th,
+        .container .table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .container .table th {
+            background-color: #f2f2f2;
+        }
+
+        .container .table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        /* Styles for action buttons in the GridView */
+        .container .table .btn {
+            padding: 6px 12px;
+            font-size: 14px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+            .container .table .btn.btn-primary {
+                background-color: #007bff;
+                color: #fff;
+                border: 1px solid #007bff;
+            }
+
+            .container .table .btn.btn-danger {
+                background-color: #dc3545;
+                color: #fff;
+                border: 1px solid #dc3545;
+            }
+
+            .container .table .btn:hover {
+                opacity: 0.8;
+            }
+
+
+
+
+
+
+
+/* Responsive adjustments */
+@media screen and (max-width: 700px) {
+    .container h2 {
+        font-size: 24px;
+    }
+
+    .container .table th,
+    .container .table td {
+        padding: 8px;
+        font-size: 12px;
+    }
+
+    .container .table .btn {
+        padding: 4px 8px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .container h2 {
+        font-size: 20px;
+    }
+
+    .container .table th,
+    .container .table td {
+        padding: 6px;
+        font-size: 10px;
+    }
+
+    .container .table .btn {
+        padding: 3px 6px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 300px) {
+    .container h2 {
+        font-size: 18px;
+    }
+
+    .container .table th,
+    .container .table td {
+        padding: 4px;
+        font-size: 8px;
+    }
+
+    .container .table .btn {
+        padding: 2px 4px;
+        font-size: 8px;
+    }
+}

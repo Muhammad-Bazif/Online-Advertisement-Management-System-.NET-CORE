@@ -1,0 +1,179 @@
+
+.publish_btn {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.publish {
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 10px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: all 0.3s;
+    background-color: #f97d00;
+    color: black;
+    margin: 40px 30px 20px;
+    border: none;
+}
+
+    .publish:hover {
+        background-color: black;
+        color: #ff8409;
+    }
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto 200px;
+padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+    .container h2 {
+        margin-top: 30px;
+        text-align: center;
+        color: #212121;
+        position: relative;
+        font-size: 2.3em;
+        text-transform: uppercase;
+        margin-bottom: 30px
+    }
+
+        .container h2:after {
+            content: '';
+            background: #3399cc;
+            height: 2px;
+            width: 25%;
+            position: absolute;
+            bottom: 0%;
+            left: 37%;
+        }
+
+.dynamic_data .table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+    .dynamic_data .table th,
+    .dynamic_data .table td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+    }
+
+    .dynamic_data .table th {
+        background-color: #f2f2f2;
+    }
+
+    .dynamic_data .table tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    /* Styles for action buttons in the gridview */
+    .dynamic_data .table .btn {
+        padding: 8px 16px;
+        font-size: 14px;
+        cursor: pointer;
+        text-transform: uppercase;
+        border-radius: 4px;
+        margin:4px;
+    }
+
+    .dynamic_data .table .btn-info {
+        background-color: #3498db;
+        color: #fff;
+        border: 1px solid #3498db;
+    }
+
+    .dynamic_data .table .btn-danger {
+        background-color: #e74c3c;
+        color: #fff;
+        border: 1px solid #e74c3c;
+    }
+
+    .dynamic_data .table .btn:hover {
+        opacity: 0.8;
+    }
+
+@media screen and (max-width: 768px) {
+    .dynamic_data .table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        border: none;
+    }
+
+    * {
+        overflow-x: hidden;
+    }
+
+    .container {
+        padding: 0;
+    }
+
+    .dynamic_data .table thead,
+    .dynamic_data .table tbody,
+    .dynamic_data .table th,
+    .dynamic_data .table td,
+    .dynamic_data .table tr {
+        display: block;
+    }
+
+    .dynamic_data .table th {
+        text-align: left;
+        background-color: #f2f2f2;
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+    }
+
+    .dynamic_data .table td {
+        border: none;
+        border-bottom: 1px solid #ddd;
+        width: 100%;
+        text-align: center;
+    }
+
+    .dynamic_data .table tr {
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        box-shadow: 6px 4px 13px #CFCCCC;
+    }
+
+    .dynamic_data .table tbody {
+        display: flex;
+        flex-direction: column;
+    }
+
+        .dynamic_data .table tbody tr {
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #ddd;
+            margin-bottom: 10px;
+        }
+
+            .dynamic_data .table tbody tr:last-child {
+                margin-bottom: 0;
+            }
+
+    .dynamic_data .table td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        margin-right: 10px;
+        flex: 0 0 30%;
+    }
+
+    .dynamic_data .table .btn {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .dynamic_data .table .btn-info,
+    .dynamic_data .table .btn-danger {
+        width: auto;
+    }
+}

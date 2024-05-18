@@ -1,0 +1,102 @@
+.container{
+    width: 100%;
+}
+.login h2{
+	text-align:center;
+	color:#212121;
+	padding-bottom:.5em;
+	position:relative;
+	font-size: 2.5em;
+	text-transform: uppercase;
+}
+.login h2:after{
+	content: '';
+    background: #3399cc;
+    height: 2px;
+    width: 15%;
+    position: absolute;
+    bottom: 0%;
+    left: 43%;
+}
+.login {
+    background-color: #e2dddd;
+}
+.login-form-grids{
+	width: 40%;
+    padding: 3em;
+    background: linear-gradient(to top right, #000066 0%, #99ccff 100%);
+    border-radius:30px;
+	margin:3em auto 0;
+}
+.login-form-grids input[type="email"],.login-form-grids input[type="password"],.login-form-grids input[type="text"]{
+	outline: none;
+    border: 1px solid #DBDBDB;
+    padding:10px 0px 10px 0px;
+    font-size:18px;
+    color: #999;
+    display: block;
+    width: 100%;
+    border-radius:8px;
+    height:20px;
+    text-align:center;
+}
+
+.login-form-grids input[type="password"]{
+	margin:1em 0 0;
+    
+}
+.forgot {
+    margin: 1.5em 0 0;
+}
+.login-form-grids input[type="submit"] {
+    outline: none;
+    border: none;
+    padding: 10px 0;
+    font-size: 1em;
+    color: #fff;
+    display: block;
+    width: 100%;
+    background: #3399cc;
+    margin: 1.5em 0 0;
+    border-radius: 8px;
+    
+}
+.login-form-grids input[type="submit"]:hover{
+	background:#fe9126;
+}
+.login-form-grids ::-webkit-input-placeholder{
+	color:#999;
+}
+.forgot a{
+	color:#212121;
+	font-size:14px;
+	text-decoration:none;
+}
+.forgot a:hover{
+	color:#d8703f;
+}
+.login p{
+	font-size:14px;
+	color:#999;
+	line-height:1.8em;
+	margin:0;
+	text-align:center;
+}
+.login p a{
+	color:#fe9126;
+	text-decoration:none;
+	font-size: 1.2em;
+	padding: 0 .5em;
+}
+.login p a:hover{
+	color:#212121;
+}
+.login p a span{
+	top: 0.1em;
+    font-size: .7em;
+    left: 0.3em;
+}
+.login {
+    padding: 5em 0;
+}
+

@@ -1,0 +1,111 @@
+/* Basic styles for container */
+.container {
+    width: 90%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  .container h2 {
+    margin-top: 30px;
+    text-align: center;
+    color: #212121;
+    position: relative;
+    font-size: 2.3em;
+    text-transform: uppercase;
+    margin-bottom: 30px
+  }
+ 
+  
+  .container .col-md-8 {
+    margin-bottom: 15px;
+  }
+  
+  .container input[type="text"],
+  .container input[type="date"],
+  .container textarea,
+  .container .form-control {
+    width: 96%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin:4px auto;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Styles for the Submit button */
+  .container #Submit {
+    width: 100%;
+    padding: 12px;
+    font-size: 18px;
+    border: none;
+    background-color: #3498db;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .container #Submit:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Styles for the error message */
+  .container #lblMessage {
+    color: darkred;
+    margin-left: 0;
+    display: block;
+    text-align: center;
+  }
+  
+  /* Style for the wrapper around FileUpload */
+.file-upload-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+/* Style for the actual FileUpload control */
+.file-upload-wrapper input[type="file"] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  cursor: pointer;
+  opacity: 0;
+}
+
+/* Style for the custom button associated with FileUpload */
+.custom-upload-button {
+  padding: 10px 15px;
+  cursor: pointer;
+  color: #fff;
+  background-color: #3498db;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s;
+  display: inline-block;
+}
+
+.custom-upload-button:hover {
+  background-color: #2980b9;
+}
+.btn{
+    margin-top:10px;
+    width:100%;
+    padding: 12px 15px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #3498db;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+    .btn:hover {
+        background-color: #2980b9;
+    }

@@ -1,0 +1,139 @@
+E:\Angular_With_MVC\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+E:\Angular_With_MVC\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+E:\Angular_With_MVC\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+E:\Angular_With_MVC\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+E:\Angular_With_MVC\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+E:\Angular_With_MVC\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csprojResolveAssemblyReference.cache
+E:\Ahsan\July 2020 Coding\Zip Projects\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+E:\Ahsan\July 2020 Coding\Zip Projects\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+E:\Ahsan\July 2020 Coding\Zip Projects\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+E:\Ahsan\July 2020 Coding\Zip Projects\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+E:\Ahsan\July 2020 Coding\Zip Projects\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+E:\Ahsan\July 2020 Coding\Zip Projects\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csprojAssemblyReference.cache
+E:\Ahsan\July 2020 Coding\Testing\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+E:\Ahsan\July 2020 Coding\Testing\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+E:\Ahsan\July 2020 Coding\Testing\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+E:\Ahsan\July 2020 Coding\Testing\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csprojAssemblyReference.cache
+E:\Ahsan\July 2020 Coding\Testing\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+E:\Ahsan\July 2020 Coding\Testing\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\USER\Desktop\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\USER\Desktop\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\USER\Desktop\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\USER\Desktop\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\USER\Desktop\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\USER\Desktop\Rayyaan\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\USER\Desktop\Rayyaan\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\USER\Desktop\Rayyaan\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\USER\Desktop\Rayyaan\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Rayyaan\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\USER\Desktop\Rayyaan\Final Deliverable\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\Alhamdulillah\Desktop\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\Alhamdulillah\Desktop\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\Alhamdulillah\Desktop\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\Alhamdulillah\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+C:\Users\Alhamdulillah\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\Alhamdulillah\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\Alhamdulillah\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+D:\Downloads\oams1\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+D:\Downloads\oams1\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+D:\Downloads\oams1\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+D:\Downloads\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+D:\Downloads\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+D:\Downloads\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+D:\Downloads\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+D:\oams1\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+D:\oams1\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+D:\oams1\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+D:\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+D:\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+D:\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+D:\oams1\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\hs\Desktop\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\OnlineAdvertisement\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+C:\Users\hs\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\hs\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\OnlineAdvertisement\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\OAMS HS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\hs\Desktop\OAMS HS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\OAMS HS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\OAMS HS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+C:\Users\hs\Desktop\OAMS HS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\hs\Desktop\OAMS HS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\OAMS HS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+D:\Downloads\AAAAA\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+D:\Downloads\AAAAA\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+D:\Downloads\AAAAA\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+D:\Downloads\AAAAA\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+D:\Downloads\AAAAA\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+D:\Downloads\AAAAA\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+D:\Downloads\AAAAA\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\hs\Desktop\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+C:\Users\hs\Desktop\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\hs\Desktop\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+F:\admin&user\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+F:\admin&user\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+F:\admin&user\FINAL\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+F:\admin&user\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+F:\admin&user\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+F:\admin&user\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+F:\admin&user\FINAL\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\M.Aun\Desktop\Final\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\M.Aun\Desktop\Final\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\M.Aun\Desktop\Final\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\M.Aun\Desktop\Final\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+C:\Users\M.Aun\Desktop\Final\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\M.Aun\Desktop\Final\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\M.Aun\Desktop\Final\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+F:\aun\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+F:\aun\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+F:\aun\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+F:\aun\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\fff\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+C:\Users\hs\Desktop\fff\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+C:\Users\hs\Desktop\fff\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\fff\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\fff\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\hs\Desktop\fff\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\fff\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+F:\New folder\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+F:\New folder\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+F:\New folder\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+F:\New folder\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+F:\New folder\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+F:\New folder\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+F:\New folder\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+D:\Downloads\AAAAA\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+D:\Downloads\AAAAA\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+D:\Downloads\AAAAA\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+D:\Downloads\AAAAA\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+D:\Downloads\AAAAA\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+D:\Downloads\AAAAA\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+D:\Downloads\AAAAA\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+C:\Users\hs\Desktop\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+C:\Users\hs\Desktop\Hammad\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+C:\Users\hs\Desktop\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+C:\Users\hs\Desktop\Hammad\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+G:\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+G:\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+G:\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+G:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+G:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+G:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+G:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb
+D:\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll.config
+D:\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.dll
+D:\OAMS\OnlineAdvertisement\bin\OnlineAdvertisement.pdb
+D:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.AssemblyReference.cache
+D:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.csproj.CoreCompileInputs.cache
+D:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.dll
+D:\OAMS\OnlineAdvertisement\obj\Debug\OnlineAdvertisement.pdb

@@ -1,0 +1,81 @@
+/* General styling */
+.admin-panel {
+    display: flex;
+    justify-content: center;
+    background-color: #f2f2f2;
+    align-items: center;
+    height:63vh;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Styles for the data boxes */
+.data-box {
+    text-align: center;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px 10px;
+    flex: 1 0 calc(33.33% - 40px); /* Adjust for responsiveness */
+    box-shadow:6px 8px 10px gray;
+
+}
+    .data-box:hover {
+        transform: scale(1.05); /* Increase size */
+    }
+
+    .data-box span {
+        font-size:30px;
+        font-weight: bold;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+/* Media query for responsiveness */
+@media screen and (max-width: 768px) {
+    .data-box {
+        flex: 1 0 calc(50% - 20px);
+    }
+    .content{
+        margin:0 40px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .data-box {
+        flex: 1 0 calc(100% - 20px);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+.publish {
+    background-color: transparent;
+    border-radius: 4px;
+    padding: 10px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: all 0.3s;
+    background-color: #f97d00;
+    color: black;
+    margin: 40px 30px 20px;
+    border: none;
+}
+
+    .publish:hover {
+        background-color: black;
+        color: #ff8409;
+    }

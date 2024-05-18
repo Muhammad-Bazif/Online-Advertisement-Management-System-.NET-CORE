@@ -1,0 +1,82 @@
+.container{
+  width: 100%;
+  margin-bottom: 0px;
+}
+.container h2{
+  margin-top: 30px;
+  text-align:center;
+	color:#212121;
+	position:relative;
+	font-size: 2.3em;
+	text-transform: uppercase;
+}
+.container h2:after{
+	content: '';
+    background: #3399cc;
+    height: 2px;
+    width: 15%;
+    position: absolute;
+    bottom: 0%;
+    left: 43%;
+}
+
+.login-form-grids {
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+    /* Styles for form inputs */
+    input[type="file"],
+    .login-form-grids input[type="text"],
+    .login-form-grids input[type="date"],
+    .login-form-grids textarea,
+    .login-form-grids .form-control {
+        width: 96%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+
+    /* Styles for the FileUpload */
+    .login-form-grids #FileUpload1 {
+        margin-bottom: 15px;
+    }
+
+    /* Styles for the Submit button */
+    .login-form-grids #btnUploadAndPublish {
+        width: 100%;
+        padding: 12px;
+        font-size: 18px;
+        border: none;
+        background-color: #3498db;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+
+        .login-form-grids #btnUploadAndPublish:hover {
+            background-color: #2980b9;
+        }
+
+    /* Styles for the error message */
+    .login-form-grids #lblMessage {
+        color: darkred;
+        margin-left: 0;
+        display: block;
+        text-align: center;
+    }
+
+input::file-selector-button {
+    font-weight: bold;
+    cursor:pointer;
+    color: dodgerblue;
+    padding: 0.2em;
+    border: thin solid grey;
+    border-radius: 3px;
+}
